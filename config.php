@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'My Wini Blog',
+        'description' => 'Personal blog of Wini.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Wini',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
